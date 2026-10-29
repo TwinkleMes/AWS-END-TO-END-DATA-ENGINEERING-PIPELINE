@@ -1,0 +1,16 @@
+﻿employee_id,name,first_name,last_name,email,department,job_title,hire_date,salary,city,country,manager_id,is_active
+1001,Trisha Sharma,Trisha,Sharma,trisha.sharma@example.com,Engineering,Cloud Data Engineer,15-03-2021,95000,Bengaluru,India,2001,TRUE
+1002,Twinkle Nair,Twinkle,Nair,twinkle.nair@example.com,Engineering,Data Engineer,01-07-2020,88000,Chennai,India,2001,TRUE
+1003,Anjali Mehta,Anjali,Mehta,anjali.mehta@example.com,Analytics,Data Analyst,10-01-2022,72000,Mumbai,India,2002,TRUE
+1004,Kaviya Iyer,Kaviya,Iyer,kaviya.iyer@example.com,Analytics,BI Developer,20-11-2019,81000,Hyderabad,India,2002,TRUE
+1005,Apurva Reddy,Apurva,Reddy,apurva.reddy@example.com,Engineering,DevOps Engineer,07-05-2018,92000,Pune,India,2001,TRUE
+1006,Navya Gupta,Navya,Gupta,navya.gupta@example.com,HR,HR Manager,12-09-2017,78000,Delhi,India,2003,TRUE
+1007,Harsitha Pillai,Harsitha,Pillai,harsitha.pillai@example.com,Finance,Financial Analyst,23-08-2021,70000,Gurugram,India,2004,TRUE
+1008,Aarav Singh,Aarav,Singh,aarav.singh@example.com,Engineering,Software Engineer,06-02-2023,76000,Kochi,India,2001,TRUE
+1009,Rohan Das,Rohan,Das,rohan.das@example.com,Sales,Account Executive,14-06-2022,68000,Kolkata,India,2005,FALSE
+1010,Divya Menon,Divya,Menon,divya.menon@example.com,Engineering,Data Architect,18-04-2016,120000,Bengaluru,India,2001,TRUE
+1011,John Miller,John,Miller,john.miller@example.com,Sales,Sales Manager,05-10-2015,105000,Austin,USA,2005,TRUE
+1012,Emily Clark,Emily,Clark,emily.clark@example.com,Marketing,Marketing Specialist,22-05-2023,64000,Seattle,USA,2006,TRUE
+1013,Daniel Brown,Daniel,Brown,daniel.brown@example.com,Finance,Finance Manager,13-01-2014,110000,New York,USA,2004,TRUE
+1014,Sophia Wilson,Sophia,Wilson,sophia.wilson@example.com,Engineering,ML Engineer,19-09-2022,115000,San Francisco,USA,2001,TRUE
+1015,Liam Taylor,Liam,Taylor,liam.taylor@example.com,Support,Support Engineer,01-12-2021,59000,London,UK,2007,TRUE
